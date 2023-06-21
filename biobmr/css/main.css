@@ -1,4 +1,17 @@
 /* Timeline custom component */
+.kontak_personal{
+  border-radius: 25px;
+  border: 2px solid #ffffff;
+  padding: 20px;
+  width: 1280px;
+  height: 150px;
+  position: relative;
+  top: 16px;
+  left: -25px;
+}
+.my-3{
+  text-align: left;
+}
 .timeline-card {
   position: relative;
   margin-left: 16px; }
